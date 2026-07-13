@@ -1,0 +1,21 @@
+{
+  "id": "question-id",
+  "mode": "game-mode",
+  "word": "方言词或短语",
+  "question": "题目内容",
+  "options": [
+    "选项一",
+    "选项二",
+    "选项三",
+    "选项四"
+  ],
+  "answerIndex": 0,
+  "region": "使用地区",
+  "explanation": "答案解释与文化背景",
+  "difficulty": "easy",
+  "tags": [
+    "标签"
+  ],
+  "source": "内容来源",
+  "status": "draft"
+}
